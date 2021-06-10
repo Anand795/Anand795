@@ -13,12 +13,6 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------  -->
 
-<img src="https://cdn.pixabay.com/photo/2017/09/14/22/42/milky-way-2750627__340.jpg" align="left" style="width: 100%" />  
-  
-<br />
-<br />
-<br />
-
 ### <div align="center">I'm Anand, a full-time web developer 👨‍💻 with 1+ years of experience 🚀😉</div>  
   
 
@@ -89,6 +83,13 @@
 
 
 
+
+
+
+
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Anand795" target="_blank">
@@ -108,11 +109,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-
 
 
 
