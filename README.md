@@ -11,9 +11,13 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------  -->
 
 <img src="https://cdn.pixabay.com/photo/2017/09/14/22/42/milky-way-2750627__340.jpg" align="left" style="width: 100%" />  
   
+<br />
+<br />
+<br />
 
 ### <div align="center">I'm Anand, a full-time web developer 👨‍💻 with 1+ years of experience 🚀😉</div>  
   
@@ -103,23 +107,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand795&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand795&hide_border=true&layout=compact" align="left" /></div>  
+<br/>  
+
+<br/>  
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------  -->
 
 
 <h3 align="left">Connect with me:</h3>
