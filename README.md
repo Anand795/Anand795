@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795)](https://github.com/Anand795/github-readme-stats)
+
+
 - 🔭 I’m currently working on Something
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
