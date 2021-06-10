@@ -6,8 +6,7 @@
 
 
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7EE2B&lines=Hi%2C+I+am+Anand.+;A+Developer+in+Making.)](https://git.io/typing-svg)
 
 
 
