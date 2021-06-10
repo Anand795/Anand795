@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7EE2B&size=45&vCenter=true&lines=Hi%2C+I+am+Anand.+;A+Web+Developer+in+Making.)](https://git.io/typing-svg)
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=gruvbox&hide_border=true&)
+<!-- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=gruvbox&hide_border=true&) -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anand795&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) -->
 
@@ -76,11 +76,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand795&hide_border=true&layout=compact&theme=gruvbox" align="left" /></div>  
 
+<br/>
 
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=gruvbox&hide_border=true&)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="left" />  
-
-
+<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anand795&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   
