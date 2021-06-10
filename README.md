@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795)](https://github.com/Anand795/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=merko)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
