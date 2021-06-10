@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795)](https://github.com/Anand795/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&theme=gruvbox)
 
 <h3 align="left">Connect with me:</h3>
