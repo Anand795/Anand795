@@ -34,9 +34,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -82,6 +79,15 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand795&hide_border=true&layout=compact&theme=gruvbox" align="left" /></div>  
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="left" />  
+
+
+
 
 ## Connect with me  
 <div align="center">
@@ -106,16 +112,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand795&hide_border=true&layout=compact" align="left" /></div>  
-<br/>  
-
-<br/>  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anand795&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
 
 
 
